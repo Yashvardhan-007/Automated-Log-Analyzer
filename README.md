@@ -25,6 +25,7 @@ This project demonstrates expertise in **Python programming**, **regex parsing**
 
 ## 📂 Project Structure
 automated_log_analyzer/
+
 │── logs/ # Sample log files
 
 │ └── sample_auth.log
